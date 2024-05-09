@@ -1,0 +1,48 @@
+.header {
+    font-size: 50px;
+    text-align: center;
+    height: 100px;
+    background-color: red;
+
+    color:rgb(0 255 250);
+}	
+.container{
+     overflow: hidden;
+}
+.blog{
+     float: left;
+     width: 70%;
+     height: 100px;
+     background-color: rgb(26 137 194);
+
+}
+.contact{
+    float: right;
+     width: 30%;
+     height: 100px;
+     background-color: rgb(247 186 186)
+
+}
+
+.box{
+    float: left;
+    width: 33.33%;
+   height: 300px;
+}
+.iteam1{
+    background-color: lightcoral;
+}
+.iteam2{
+    background-color: dimgrey;
+}
+.iteam3{
+    background-color: gold;
+}
+.footer{
+   text-align: center;
+   font-size: 50px;
+   color: rgb(168 129 255);;
+    background-color: greenyellow;
+    height: 100px
+
+}
